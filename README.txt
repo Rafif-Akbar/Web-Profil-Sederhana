@@ -10,7 +10,6 @@ Proyek ini merupakan tugas mata kuliah Pemrograman Web yang berupa sebuah websit
 * **JavaScript (ES6)** – Untuk logika interaktivitas menu *mobile navigation*.
 * **Boxicons** – Sebagai *library* penyedia ikon media sosial modern.
 * **Google Fonts (Poppins)** – Untuk tipografi teks yang bersih dan elegan.
-* **Netlify** – Sebagai platform *cloud hosting* dan manajemen data formulir masuk.
 
 ---
 
