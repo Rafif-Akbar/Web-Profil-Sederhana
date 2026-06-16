@@ -25,3 +25,17 @@ Tugas-Profile/
     ├── profile-pic.jpg
     ├── proyek1.jpg
     └── proyek2.jpg
+
+---
+
+## 🚀 Cara Menjalankan Secara Lokal
+
+Jika Anda ingin mencoba menjalankan atau memodifikasi website ini di komputer Anda sendiri:
+1. Clone repositori ini:
+"git clone [https://......"
+
+2. Masuk ke direktori proyek:
+"cd NAMA_REPOSITORI"
+
+3. Buka file index.html:
+Double-klik file index.html untuk membukanya langsung di browser pilihan Anda.
